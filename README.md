@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **adarshagnihotri46@gmail.com**
 
-<h2 align="center"> Blogs posts</h2>
+<h2 align="center"> Blog posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
 
