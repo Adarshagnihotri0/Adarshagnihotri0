@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React , JavaScript & Java**
 
-- 📫 How to reach me **adarshagnihotri46@gmail.com**
+- 📫 Mail me here **adarshagnihotri46@gmail.com**
 
 <h2 align="center"> Blog posts</h2>
 
