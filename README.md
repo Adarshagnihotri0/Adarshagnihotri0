@@ -44,8 +44,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshagnihotri0&show_icons=true&locale=en&layout=compact" alt="adarshagnihotri0" />
 </h1>
 
-<h1 align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshagnihotri0&" alt="adarshagnihotri0" />
-</h1>
 
+<h1 align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshagnihotri0" alt="GitHub Streak Stats" />
+  </h1>
 
