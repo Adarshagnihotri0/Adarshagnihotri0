@@ -46,6 +46,6 @@
 
 
 <h1 align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshagnihotri0" alt="GitHub Streak Stats" />
+    <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)" />
   </h1>
 
