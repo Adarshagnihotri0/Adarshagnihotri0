@@ -44,8 +44,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshagnihotri0&show_icons=true&locale=en&layout=compact" alt="adarshagnihotri0" />
 </h1>
 
+ <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com/?adarshagnihotri0=DenverCoder1" alt="GitHub Streak Stats" />
+    </a>
 
-<h1 align="center">
-    <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)" />
-  </h1>
 
