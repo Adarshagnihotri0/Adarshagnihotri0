@@ -2,7 +2,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Adarsh Agnihotri</h1>
-<h3 align="center">Fueling innovation and building web wonders as a passionate MERN stack developer hailing from India 🚀</h3>
+<h3 align="center">Fueling innovation and building web wonders as a passionate MERN stack developer hailing from India 🚀
+  
+</h3><img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 
 - 🔭 I’m currently working on [spotify-clone](https://github.com/Adarshagnihotri0/spotify-clone)
 
@@ -14,7 +17,7 @@
 
 - 📫 Mail me here **adarshagnihotri46@gmail.com**
 
-<h2 align="center"> Blog posts</h2>
+
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -44,8 +47,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshagnihotri0&show_icons=true&locale=en&layout=compact" alt="adarshagnihotri0" />
 </h1>
 
- <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com/?adarshagnihotri0=DenverCoder1" alt="GitHub Streak Stats" />
-    </a>
-
-
+<p align="center">
+  <a href="https://streak-stats.demolab.com?user=Adarshagnihotri0&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D">
+    <img src="https://streak-stats.demolab.com?user=Adarshagnihotri0&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+</p>
