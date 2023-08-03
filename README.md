@@ -47,8 +47,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshagnihotri0&show_icons=true&locale=en&layout=compact" alt="adarshagnihotri0" />
 </h1>
 
-<p align="center">
-  <a href="https://streak-stats.demolab.com?user=Adarshagnihotri0&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D">
-    <img src="https://streak-stats.demolab.com?user=Adarshagnihotri0&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </a>
-</p>
