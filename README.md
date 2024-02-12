@@ -1,31 +1,31 @@
-![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
 
 
 <h1 align="center">Hi 👋, I'm Adarsh Agnihotri</h1>
-<h3 align="center">Fueling innovation and building web wonders as a passionate MERN stack developer hailing from India 🚀
+<h3 align="center">Exploring the web development journey and soaking up knowledge along the way!
   
 </h3><img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
-- 🔭 I’m currently working on [spotify-clone](https://github.com/Adarshagnihotri0/spotify-clone)
-
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 📝 I regularly write articles on [https://adarshagnihotri.hashnode.dev/](https://adarshagnihotri.hashnode.dev/)
 
-- 💬 Ask me about **React , JavaScript & Java**
+- 💬  Curious about **Java or JavaScript**
 
 - 📫 Mail me here **adarshagnihotri46@gmail.com**
 
 
 
 <!-- BLOG-POST-LIST:START -->
+- [All about JS functions in detail](https://adarshagnihotri.hashnode.dev/who-what-why-where-when-and-how-all-about-js-functions)
 
-- [Cracking the Code: A Practical Guide](https://adarshagnihotri.hashnode.dev/cracking-the-code-a-practical-guide)
+- [how arrays work in java](https://adarshagnihotri.hashnode.dev/how-arrays-work-in-java)
 
-- [Mastering the Art of Crafting Professional Resumes with LaTeX](https://adarshagnihotri.hashnode.dev/mastering-the-art-of-crafting-professional-resumes-with-latex)
+- [HashCat](https://adarshagnihotri.hashnode.dev/cracking-the-code-a-practical-guide)
+
+- [How to make Resumes with LaTeX](https://adarshagnihotri.hashnode.dev/mastering-the-art-of-crafting-professional-resumes-with-latex)
   
-- [Embracing the Power of AI in Code Review](https://adarshagnihotri.hashnode.dev/embracing-the-power-of-ai-in-code-review)
+- [How to use AI in Code Review](https://adarshagnihotri.hashnode.dev/embracing-the-power-of-ai-in-code-review)
   
 <!-- BLOG-POST-LIST:END -->
 
